@@ -1,4 +1,4 @@
-function magic_eight():
+def magic_eight():
 	while True:
 		answer = input('What is your question?')
 		if answer == "quit":
